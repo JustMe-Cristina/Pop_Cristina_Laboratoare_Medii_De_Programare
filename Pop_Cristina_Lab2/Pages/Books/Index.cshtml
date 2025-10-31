@@ -55,7 +55,7 @@
         {
             <tr>
                 <td>@item.Title</td>
-                <td>@item.Author?.Name</td>
+                <td>@(item.Author?.FullName ?? "")</td>
                 <td>@item.Price</td>
                 <td>@item.PublishingDate.ToShortDateString()</td>
                 <td>@item.Publisher?.Name</td>

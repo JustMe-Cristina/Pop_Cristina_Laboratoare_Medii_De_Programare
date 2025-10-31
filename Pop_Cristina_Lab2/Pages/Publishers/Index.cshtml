@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{id:int?}"
 @model Pop_Cristina_Lab2.Pages.Publishers.IndexModel
 
 @{
@@ -14,23 +14,45 @@
 <table class="table table-striped">
     <thead>
         <tr>
-            <th>@Html.DisplayNameFor(model => model.Publisher[0].Name)</th>
-            <th>Number of Books</th>
+            <th>Publisher Name</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model.Publisher)
+        @foreach (var item in Model.PublisherData.Publishers)
         {
-            <tr>
+            var selectedRow = item.ID == Model.PublisherID ? "table-success" : "";
+            <tr class="@selectedRow">
                 <td>@item.Name</td>
-                <td>@(item.Books?.Count ?? 0)</td>
                 <td>
-                    <a asp-page="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
-                    <a asp-page="Details" asp-route-id="@item.ID" class="btn btn-sm btn-info">Details</a>
-                    <a asp-page="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger">Delete</a>
+                    <a asp-page="./Index" asp-route-id="@item.ID">Select</a> |
+                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+@if (Model.PublisherData.Books != null && Model.PublisherData.Books.Any())
+{
+    <h3>Books of selected publisher</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var b in Model.PublisherData.Books)
+            {
+                <tr>
+                    <td>@b.Title</td>
+                    <td>@b.Author?.FullName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -7,10 +7,15 @@ namespace Pop_Cristina_Lab2.Models
     {
         public int ID { get; set; }
 
-        [Display(Name = "Author Name")]
-        public string Name { get; set; } = string.Empty;
+        [Display(Name = "First Name")]
+        public string FirstName { get; set; } = string.Empty;
 
-        // un autor poate avea mai multe cărți
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; } = string.Empty;
+
+        [Display(Name = "Full Name")]
+        public string FullName => $"{FirstName} {LastName}".Trim();
+
         public ICollection<Book>? Books { get; set; }
     }
 }
