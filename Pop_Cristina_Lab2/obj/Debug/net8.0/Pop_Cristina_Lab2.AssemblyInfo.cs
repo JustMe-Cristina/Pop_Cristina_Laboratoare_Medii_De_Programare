@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pop_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17bbd2411825382b4c476d385c81589eeea204bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49ebd6034b69bfe6a98267758fbc172f0e5cfbef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pop_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pop_Cristina_Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

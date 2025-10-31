@@ -4,12 +4,10 @@
     {
         public int ID { get; set; }
 
-        // FK spre Book
         public int BookID { get; set; }
-        public Book Book { get; set; } = null!;
+        public Book? Book { get; set; }
 
-        // FK spre Category
         public int CategoryID { get; set; }
-        public Category Category { get; set; } = null!;
+        public Category? Category { get; set; }
     }
 }

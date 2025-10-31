@@ -1,9 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using System.Threading.Tasks;
 
 namespace Pop_Cristina_Lab2.Pages.Publishers
 {
@@ -21,29 +21,24 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
-                return NotFound();
+            if (id == null) return NotFound();
 
-            Publisher = await _context.Publisher
-                .FirstOrDefaultAsync(m => m.ID == id);
+            var publisher = await _context.Publisher.FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Publisher == null)
-                return NotFound();
+            if (publisher == null) return NotFound();
 
+            Publisher = publisher;
             return Page();
         }
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            if (id == null)
-                return NotFound();
+            if (id == null) return NotFound();
 
             var publisher = await _context.Publisher.FindAsync(id);
-
             if (publisher != null)
             {
-                Publisher = publisher;
-                _context.Publisher.Remove(Publisher);
+                _context.Publisher.Remove(publisher);
                 await _context.SaveChangesAsync();
             }
 

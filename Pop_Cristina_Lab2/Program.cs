@@ -10,6 +10,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddDbContext<Pop_Cristina_Lab2Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("Pop_Cristina_Lab2Context")));
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

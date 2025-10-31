@@ -1,9 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using System.Threading.Tasks;
 
 namespace Pop_Cristina_Lab2.Pages.Publishers
 {
@@ -20,16 +20,15 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
-                return NotFound();
+            if (id == null) return NotFound();
 
-            Publisher = await _context.Publisher
-                .Include(p => p.Books)
+            var publisher = await _context.Publisher
+                .Include(p => p.Books!)
                 .FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Publisher == null)
-                return NotFound();
+            if (publisher == null) return NotFound();
 
+            Publisher = publisher;
             return Page();
         }
     }

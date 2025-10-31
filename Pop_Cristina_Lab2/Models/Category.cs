@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Pop_Cristina_Lab2.Models
 {
@@ -6,9 +7,10 @@ namespace Pop_Cristina_Lab2.Models
     {
         public int ID { get; set; }
 
+        [Required]
+        [Display(Name = "Category")]
         public string CategoryName { get; set; } = string.Empty;
 
-        // relația inversă: o categorie poate fi pe mai multe cărți
         public ICollection<BookCategory>? BookCategories { get; set; }
     }
 }

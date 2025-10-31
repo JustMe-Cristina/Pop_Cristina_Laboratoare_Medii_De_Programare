@@ -1,10 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using System.Threading.Tasks;
-using System.Linq;
 
 namespace Pop_Cristina_Lab2.Pages.Publishers
 {
@@ -23,20 +23,26 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)
+            {
                 return NotFound();
+            }
 
-            Publisher = await _context.Publisher.FirstOrDefaultAsync(m => m.ID == id);
-
-            if (Publisher == null)
+            var publisher = await _context.Publisher.FirstOrDefaultAsync(m => m.ID == id);
+            if (publisher == null)
+            {
                 return NotFound();
+            }
 
+            Publisher = publisher;
             return Page();
         }
 
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
+            {
                 return Page();
+            }
 
             _context.Attach(Publisher).State = EntityState.Modified;
 
@@ -47,9 +53,13 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
             catch (DbUpdateConcurrencyException)
             {
                 if (!_context.Publisher.Any(e => e.ID == Publisher.ID))
+                {
                     return NotFound();
+                }
                 else
+                {
                     throw;
+                }
             }
 
             return RedirectToPage("./Index");

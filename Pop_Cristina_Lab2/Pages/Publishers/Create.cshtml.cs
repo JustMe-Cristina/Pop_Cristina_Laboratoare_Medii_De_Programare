@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using System.Threading.Tasks;
 
 namespace Pop_Cristina_Lab2.Pages.Publishers
 {
@@ -16,18 +16,22 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
         }
 
         [BindProperty]
-        public Publisher Publisher { get; set; } = default!;
+        public Publisher Publisher { get; set; } = new();
 
-        public IActionResult OnGet() => Page();
+        public IActionResult OnGet()
+        {
+            return Page();
+        }
 
         public async Task<IActionResult> OnPostAsync()
         {
             if (!ModelState.IsValid)
+            {
                 return Page();
+            }
 
             _context.Publisher.Add(Publisher);
             await _context.SaveChangesAsync();
-
             return RedirectToPage("./Index");
         }
     }

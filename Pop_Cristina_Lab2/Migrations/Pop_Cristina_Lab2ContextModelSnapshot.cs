@@ -55,7 +55,7 @@ namespace Pop_Cristina_Lab2.Migrations
                         .HasColumnType("int");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(6, 2)");
+                        .HasColumnType("decimal(6,2)");
 
                     b.Property<int?>("PublisherID")
                         .HasColumnType("int");
@@ -99,6 +99,35 @@ namespace Pop_Cristina_Lab2.Migrations
                     b.ToTable("BookCategory");
                 });
 
+            modelBuilder.Entity("Pop_Cristina_Lab2.Models.Borrowing", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<int?>("BookID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("BorrowDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int?>("MemberID")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("ReturnDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("ID");
+
+                    b.HasIndex("BookID");
+
+                    b.HasIndex("MemberID");
+
+                    b.ToTable("Borrowing");
+                });
+
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Category", b =>
                 {
                     b.Property<int>("ID")
@@ -116,6 +145,26 @@ namespace Pop_Cristina_Lab2.Migrations
                     b.ToTable("Category");
                 });
 
+            modelBuilder.Entity("Pop_Cristina_Lab2.Models.Member", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<string>("Email")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("FullName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Member");
+                });
+
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Publisher", b =>
                 {
                     b.Property<int>("ID")
@@ -124,7 +173,7 @@ namespace Pop_Cristina_Lab2.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
-                    b.Property<string>("Name")
+                    b.Property<string>("PublisherName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -167,6 +216,21 @@ namespace Pop_Cristina_Lab2.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("Pop_Cristina_Lab2.Models.Borrowing", b =>
+                {
+                    b.HasOne("Pop_Cristina_Lab2.Models.Book", "Book")
+                        .WithMany("Borrowings")
+                        .HasForeignKey("BookID");
+
+                    b.HasOne("Pop_Cristina_Lab2.Models.Member", "Member")
+                        .WithMany("Borrowings")
+                        .HasForeignKey("MemberID");
+
+                    b.Navigation("Book");
+
+                    b.Navigation("Member");
+                });
+
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Author", b =>
                 {
                     b.Navigation("Books");
@@ -175,11 +239,18 @@ namespace Pop_Cristina_Lab2.Migrations
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Book", b =>
                 {
                     b.Navigation("BookCategories");
+
+                    b.Navigation("Borrowings");
                 });
 
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Category", b =>
                 {
                     b.Navigation("BookCategories");
+                });
+
+            modelBuilder.Entity("Pop_Cristina_Lab2.Models.Member", b =>
+                {
+                    b.Navigation("Borrowings");
                 });
 
             modelBuilder.Entity("Pop_Cristina_Lab2.Models.Publisher", b =>

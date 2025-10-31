@@ -1,62 +1,50 @@
-﻿@page "{id:int?}"
-@model Pop_Cristina_Lab2.Pages.Categories.IndexModel
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
+using Pop_Cristina_Lab2.Models;
 
-@{
-    ViewData["Title"] = "Categories";
-}
-
-<h1>Categories</h1>
-
-<p>
-    <a asp-page="Create" class="btn btn-success">Create New</a>
-</p>
-
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th>Category name</th>
-            <th>Books count</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model.CategoryData.Categories)
-        {
-            var selected = item.ID == Model.CategoryID ? "table-success" : "";
-            <tr class="@selected">
-                <td>@item.CategoryName</td>
-                <td>@(item.BookCategories?.Count ?? 0)</td>
-                <td>
-                    <a asp-page="./Index" asp-route-id="@item.ID">Select</a> |
-                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
-
-@if (Model.CategoryData.Books != null && Model.CategoryData.Books.Any())
+namespace Pop_Cristina_Lab2.Pages.Categories
 {
-    <h3>Books in selected category</h3>
-    <table class="table table-bordered">
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Author</th>
-                <th>Publisher</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var b in Model.CategoryData.Books)
-            {
-                <tr>
-                    <td>@b.Title</td>
-                    <td>@(b.Author?.FullName ?? "")</td>
-                    <td>@(b.Publisher?.Name ?? "")</td>
-                </tr>
+    public class IndexModel : PageModel
+    {
+        private readonly Pop_Cristina_Lab2Context _context;
+
+        public IndexModel(Pop_Cristina_Lab2Context context)
+        {
+            _context = context;
+        }
+
+        public IList<CategoryData>
+    CategoryData { get; set; } = new List<CategoryData>
+        ();
+
+        public int? CategoryID { get; set; }
+
+        public async Task OnGetAsync(int? id)
+        {
+        var categories = await _context.Categories
+        .Include(c => c.BookCategories)
+        .ThenInclude(bc => bc.Book)
+        .ThenInclude(b => b.Author)
+        .Include(c => c.BookCategories)
+        .ThenInclude(bc => bc.Book)
+        .ThenInclude(b => b.Publisher)
+        .AsNoTracking()
+        .ToListAsync();
+
+        CategoryData = categories.Select(c => new CategoryData
+        {
+        Category = c,
+        BookCategories = c.BookCategories
+        }).ToList();
+
+        CategoryID = id;
+        }
+        }
+
+        public class CategoryData
+        {
+        public Category Category { get; set; }
+        public IEnumerable<BookCategory>
+            BookCategories { get; set; }
             }
-        </tbody>
-    </table>
-}
+            }

@@ -3,16 +3,260 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031231523_AddMemberEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251031231523_AddMemberEmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\viewmodels\\categoryindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\viewmodels\\categoryindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\members\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\members\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\data\\pop_cristina_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:data\\pop_cristina_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\borrowings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\borrowings\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pop_cristina_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pop_cristina_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\viewmodels\\publisherindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\viewmodels\\publisherindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\viewmodels\\assignedcategorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +269,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,196 +295,28 @@
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031184030_BookCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251031184030_BookCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\data\\pop_cristina_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:data\\pop_cristina_lab2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pop_cristina_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pop_cristina_lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\publishers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\books\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\migrations\\20251031174921_addauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -261,6 +329,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\migrations\\20251031172856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:migrations\\20251031172856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\migrations\\20251031184030_bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:migrations\\20251031184030_bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\migrations\\20251031192028_authorsplitname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:migrations\\20251031192028_authorsplitname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|c:\\users\\acer\\pop_cristina_laboratoare_medii_de_programare\\pop_cristina_lab2\\migrations\\20251031205102_memberandborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13FBC42C-3F62-4F33-BA82-D6324F43DBD7}|Pop_Cristina_Lab2.csproj|solutionrelative:migrations\\20251031205102_memberandborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -270,433 +350,587 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Publishers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:49:06.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AssignedCategoryData.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\AssignedCategoryData.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\AssignedCategoryData.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\AssignedCategoryData.cs",
-              "RelativeToolTip": "Models\\ViewModels\\AssignedCategoryData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:46:34.971Z",
+              "WhenOpened": "2025-10-31T18:02:56.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:42:18.695Z",
+              "WhenOpened": "2025-10-31T18:02:54.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:44:46.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Edit.cshtml",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:42:48.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml",
               "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-31T18:42:19.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:42:19.672Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:14:01.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:42:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251031231523_AddMemberEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031231523_AddMemberEmail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251031231523_AddMemberEmail.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031231523_AddMemberEmail.cs",
+              "RelativeToolTip": "Migrations\\20251031231523_AddMemberEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:42:18.846Z",
+              "WhenOpened": "2025-10-31T23:15:23.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:46:45.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:46:47.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:42:19.369Z",
+              "WhenOpened": "2025-10-31T17:46:06.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:42:19.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Categories\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:42:19.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Categories\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:42:19.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:42:19.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:42:18.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20251031184030_BookCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031184030_BookCategory.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251031184030_BookCategory.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031184030_BookCategory.cs",
-              "RelativeToolTip": "Migrations\\20251031184030_BookCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:40:30.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:21:18.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Index.cshtml",
               "RelativeToolTip": "Pages\\Books\\Index.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwE4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-31T17:43:08.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Members\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Members\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:14:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryIndexData.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\CategoryIndexData.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CategoryIndexData.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\CategoryIndexData.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CategoryIndexData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:23:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:42:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:15:11.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:15:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Edit.cshtml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:44:46.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:55.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:02:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:55.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:15:11.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:15:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Books\\Index.cshtml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T17:43:59.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Pop_Cristina_Lab2Context.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Data\\Pop_Cristina_Lab2Context.cs",
-              "RelativeDocumentMoniker": "Data\\Pop_Cristina_Lab2Context.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Data\\Pop_Cristina_Lab2Context.cs",
-              "RelativeToolTip": "Data\\Pop_Cristina_Lab2Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Books\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:24:31.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:31:27.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BookCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\BookCategory.cs",
-              "RelativeDocumentMoniker": "Models\\BookCategory.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\BookCategory.cs",
-              "RelativeToolTip": "Models\\BookCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:31:51.564Z",
+              "WhenOpened": "2025-10-31T17:46:12.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:02:54.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAswDMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:02:53.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Pop_Cristina_Lab2.csproj",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pop_Cristina_Lab2.csproj",
-              "RelativeDocumentMoniker": "Pop_Cristina_Lab2.csproj",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pop_Cristina_Lab2.csproj",
-              "RelativeToolTip": "Pop_Cristina_Lab2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T17:20:46.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:47:44.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:02:55.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Delete.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:02:55.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:02:55.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Details.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:02:54.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:02:54.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:02:53.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Publishers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Publishers\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T18:02:56.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Publishers\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Publishers\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:02:56.466Z"
+              "WhenOpened": "2025-10-31T18:02:56.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:15:10.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:15:11.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:15:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:15:11.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Delete.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA/wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:15:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:14:00.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Members\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Members\\Create.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:14:00.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:14:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Members\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Members\\Details.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:14:01.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:14:00.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Members\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Members\\Edit.cshtml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:14:00.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Members\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Members\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T21:14:01.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Members\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Members\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Members\\Delete.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:14:01.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:54.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:02:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Publishers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA/wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:02:53.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Pop_Cristina_Lab2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Data\\Pop_Cristina_Lab2Context.cs",
+              "RelativeDocumentMoniker": "Data\\Pop_Cristina_Lab2Context.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Data\\Pop_Cristina_Lab2Context.cs",
+              "RelativeToolTip": "Data\\Pop_Cristina_Lab2Context.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:24:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:21:18.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "Models\\Borrowing.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Borrowing.cs",
+              "RelativeToolTip": "Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:32:23.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:32:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "Models\\BookCategory.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\BookCategory.cs",
+              "RelativeToolTip": "Models\\BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:31:51.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:31:27.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "Publisher.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Publisher.cs",
               "RelativeDocumentMoniker": "Models\\Publisher.cs",
@@ -708,43 +942,367 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:47:44.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Create.cshtml",
               "RelativeToolTip": "Pages\\Books\\Create.cshtml",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-31T17:41:01.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T17:24:50.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Books\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\Books\\Create.cshtml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T17:41:04.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:40:39.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:40:39.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:49:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Borrowings\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Borrowings\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Borrowings\\Create.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T21:15:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-31T21:24:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Pop_Cristina_Lab2.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pop_Cristina_Lab2.csproj",
+              "RelativeDocumentMoniker": "Pop_Cristina_Lab2.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pop_Cristina_Lab2.csproj",
+              "RelativeToolTip": "Pop_Cristina_Lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T17:20:46.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:25:09.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20251031205102_MemberAndBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031205102_MemberAndBorrowing.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251031205102_MemberAndBorrowing.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031205102_MemberAndBorrowing.cs",
+              "RelativeToolTip": "Migrations\\20251031205102_MemberAndBorrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:51:03.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T17:24:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20251031192028_AuthorSplitName.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031192028_AuthorSplitName.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251031192028_AuthorSplitName.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031192028_AuthorSplitName.cs",
+              "RelativeToolTip": "Migrations\\20251031192028_AuthorSplitName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:20:29.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:50:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Authors\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:50:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Authors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:50:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:50:56.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T17:50:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PublisherIndexData.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\PublisherIndexData.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\PublisherIndexData.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\PublisherIndexData.cs",
+              "RelativeToolTip": "Models\\ViewModels\\PublisherIndexData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:09:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:42:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AssignedCategoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\AssignedCategoryData.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AssignedCategoryData.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Models\\ViewModels\\AssignedCategoryData.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AssignedCategoryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:46:34.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:42:18.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:42:19.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:42:19.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:42:19.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:42:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:42:19.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:42:18.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20251031184030_BookCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031184030_BookCategory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251031184030_BookCategory.cs",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031184030_BookCategory.cs",
+              "RelativeToolTip": "Migrations\\20251031184030_BookCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:40:30.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Publishers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Publishers\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Publishers\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T18:02:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml.cs",
@@ -756,19 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:50:56.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 75,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml.cs",
@@ -780,19 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:50:56.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 76,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml.cs",
@@ -804,19 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:50:55.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 77,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml.cs",
@@ -828,19 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:50:55.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 78,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml.cs",
@@ -852,19 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Authors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Authors\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Authors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:50:54.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 79,
               "Title": "20251031174921_AddAuthor.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031174921_AddAuthor.cs",
               "RelativeDocumentMoniker": "Migrations\\20251031174921_AddAuthor.cs",
@@ -876,175 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Delete.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:46:45.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Delete.cshtml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:46:47.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Books\\Details.cshtml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:46:12.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Books\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Books\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Books\\Details.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:46:06.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:40:39.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:40:39.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:40:38.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:40:38.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:40:38.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Details.cshtml",
-              "RelativeToolTip": "Pages\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:40:37.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:40:37.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Edit.cshtml",
-              "RelativeToolTip": "Pages\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:40:37.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:40:36.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Pages\\Create.cshtml",
-              "RelativeToolTip": "Pages\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-31T17:40:35.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 80,
               "Title": "20251031173222_AddPublisher.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031173222_AddPublisher.cs",
               "RelativeDocumentMoniker": "Migrations\\20251031173222_AddPublisher.cs",
@@ -1056,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 81,
               "Title": "20251031172856_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Migrations\\20251031172856_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20251031172856_InitialCreate.cs",
@@ -1065,18 +1395,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T17:28:57.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Pop_Cristina_Laboratoare_Medii_De_Programare\\Pop_Cristina_Lab2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T17:25:09.613Z"
             }
           ]
         }

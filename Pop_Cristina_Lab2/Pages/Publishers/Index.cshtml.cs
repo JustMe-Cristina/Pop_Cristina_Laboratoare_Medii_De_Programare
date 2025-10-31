@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using Pop_Cristina_Lab2.Models.ViewModels;
 
 namespace Pop_Cristina_Lab2.Pages.Publishers
 {
@@ -18,29 +17,14 @@ namespace Pop_Cristina_Lab2.Pages.Publishers
             _context = context;
         }
 
-        public IList<Publisher> Publisher { get; set; } = default!;
+        public IList<Publisher> PublisherList { get; set; } = new List<Publisher>();
 
-        public PublisherIndexData PublisherData { get; set; } = new();
-        public int PublisherID { get; set; }
-
-        public async Task OnGetAsync(int? id)
+        public async Task OnGetAsync()
         {
-            // AICI ÎNCĂRCĂM EDITURILE
-            var publishers = await _context.Publisher
-                .Include(p => p.Books)
+            PublisherList = await _context.Publisher
+                .Include(p => p.Books!)              // <- ! aici
                     .ThenInclude(b => b.Author)
-                .OrderBy(p => p.Name)
                 .ToListAsync();
-
-            PublisherData.Publishers = publishers;
-            Publisher = publishers; // ca să nu mai dea null în view
-
-            if (id != null)
-            {
-                PublisherID = id.Value;
-                var selected = publishers.Single(p => p.ID == id.Value);
-                PublisherData.Books = selected.Books ?? new List<Book>();
-            }
         }
     }
 }

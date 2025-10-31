@@ -1,4 +1,4 @@
-﻿@page "{id:int?}"
+﻿@page
 @model Pop_Cristina_Lab2.Pages.Publishers.IndexModel
 
 @{
@@ -8,51 +8,28 @@
 <h1>Publishers</h1>
 
 <p>
-    <a asp-page="Create" class="btn btn-success">Create New</a>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
 </p>
-
-<table class="table table-striped">
+<table class="table">
     <thead>
         <tr>
-            <th>Publisher Name</th>
+            <th>Publisher</th>
+            <th>No. of books</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model.PublisherData.Publishers)
+        @foreach (var item in Model.PublisherList)
         {
-            var selectedRow = item.ID == Model.PublisherID ? "table-success" : "";
-            <tr class="@selectedRow">
-                <td>@item.Name</td>
+            <tr>
+                <td>@item.PublisherName</td>
+                <td>@(item.Books?.Count ?? 0)</td>
                 <td>
-                    <a asp-page="./Index" asp-route-id="@item.ID">Select</a> |
-                    <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
-                    <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
-                    <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+                    <a asp-page="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-page="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-page="Delete" asp-route-id="@item.ID">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
-
-@if (Model.PublisherData.Books != null && Model.PublisherData.Books.Any())
-{
-    <h3>Books of selected publisher</h3>
-    <table class="table table-bordered">
-        <thead>
-            <tr>
-                <th>Title</th>
-                <th>Author</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var b in Model.PublisherData.Books)
-            {
-                <tr>
-                    <td>@b.Title</td>
-                    <td>@b.Author?.FullName</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}

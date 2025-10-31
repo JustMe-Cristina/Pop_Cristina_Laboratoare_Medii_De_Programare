@@ -1,0 +1,38 @@
+﻿@page
+@model Pop_Cristina_Lab2.Pages.Members.CreateModel
+
+@{
+    ViewData["Title"] = "Create Member";
+}
+
+<h1>Create Member</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Member.FullName" class="form-label"></label>
+                <input asp-for="Member.FullName" class="form-control" />
+                <span asp-validation-for="Member.FullName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Member.Email" class="form-label"></label>
+                <input asp-for="Member.Email" class="form-control" />
+                <span asp-validation-for="Member.Email" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-page="./Index" class="btn btn-secondary">Back to list</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

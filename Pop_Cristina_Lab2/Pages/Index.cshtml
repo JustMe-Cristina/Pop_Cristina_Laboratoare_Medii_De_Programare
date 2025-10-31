@@ -4,22 +4,58 @@
     ViewData["Title"] = "Welcome";
 }
 
+<style>
+    body {
+        background-color: #f5f0e6; /nuanta bej de hartie veche
+        color: #3e2723; /* maro inchis */
+        font-family: 'Georgia', serif;
+    }
+
+    h1 {
+        color: #3e2723;
+        text-shadow: 1px 1px 2px #d7ccc8;
+    }
+
+    .btn {
+        border-radius: 12px;
+        font-weight: 500;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn:hover {
+            transform: scale(1.05);
+        }
+
+    .quote {
+        font-style: italic;
+        color: #5d4037;
+    }
+
+    .heart {
+        color: #8B4513; /* maro cald */
+    }
+</style>
+
 <div class="text-center mt-5">
-    <h1 class="display-4 fw-bold">Welcome to the Library of the Heart</h1>
-    <p class="lead text-muted mb-4">
-        A peaceful corner for book lovers — explore stories, authors, publishers, and categories that shape our literary world.
+    <h1 class="display-4 fw-bold">
+        Welcome to the Library of the Heart
+        <span class="heart">&#10084;</span>
+    </h1>
+
+    <p class="lead mb-4">
+        A cozy digital library built with ASP.NET Core — where books, authors, publishers, and members come together in harmony.
     </p>
 
-    <div class="d-flex justify-content-center gap-3">
-        <a asp-page="/Books/Index" class="btn btn-primary btn-lg px-4">Browse Books</a>
-        <a asp-page="/Authors/Index" class="btn btn-outline-secondary btn-lg px-4">Meet Authors</a>
-        <a asp-page="/Publishers/Index" class="btn btn-outline-secondary btn-lg px-4">Publishers</a>
-        <a asp-page="/Categories/Index" class="btn btn-outline-secondary btn-lg px-4">Categories</a>
+    <div class="d-flex justify-content-center gap-3 flex-wrap mb-5">
+        <a asp-page="/Books/Index" class="btn btn-primary btn-lg px-4 shadow-sm">📚 Books</a>
+        <a asp-page="/Authors/Index" class="btn btn-outline-secondary btn-lg px-4 shadow-sm">✍️ Authors</a>
+        <a asp-page="/Publishers/Index" class="btn btn-outline-secondary btn-lg px-4 shadow-sm">🏢 Publishers</a>
+        <a asp-page="/Categories/Index" class="btn btn-outline-secondary btn-lg px-4 shadow-sm">🏷️ Categories</a>
+        <a asp-page="/Members/Index" class="btn btn-outline-secondary btn-lg px-4 shadow-sm">👥 Members</a>
+        <a asp-page="/Borrowings/Index" class="btn btn-outline-secondary btn-lg px-4 shadow-sm">📖 Borrowings</a>
     </div>
 
-    <div class="mt-5">
-        <p class="text-secondary">
-            “A room without books is like a body without a soul.” — Cicero
-        </p>
+    <div class="quote mt-4">
+        “A room without books is like a body without a soul.” — Cicero
     </div>
 </div>

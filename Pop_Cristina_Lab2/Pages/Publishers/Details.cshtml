@@ -2,31 +2,17 @@
 @model Pop_Cristina_Lab2.Pages.Publishers.DetailsModel
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Publisher details";
 }
 
-<h1>Publisher Details</h1>
+<h1>Publisher details</h1>
+<hr />
+<dl class="row">
+    <dt class="col-sm-2">Name</dt>
+    <dd class="col-sm-10">
+        @Model.Publisher.PublisherName
+    </dd>
+</dl>
 
-<div>
-    <h4>@Model.Publisher.Name</h4>
-    <hr />
-    <h5>Books Published:</h5>
-    <ul>
-        @if (Model.Publisher.Books != null && Model.Publisher.Books.Any())
-        {
-            foreach (var b in Model.Publisher.Books)
-            {
-                <li>@b.Title</li>
-            }
-        }
-        else
-        {
-            <li>No books found</li>
-        }
-    </ul>
-</div>
-
-<div>
-    <a asp-page="./Edit" asp-route-id="@Model.Publisher.ID" class="btn btn-warning">Edit</a>
-    <a asp-page="./Index" class="btn btn-secondary">Back</a>
-</div>
+<a asp-page="./Edit" asp-route-id="@Model.Publisher.ID" class="btn btn-primary">Edit</a>
+<a asp-page="./Index" class="btn btn-secondary">Back to list</a>

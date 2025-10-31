@@ -19,11 +19,11 @@ namespace Pop_Cristina_Lab2.Pages
             _context = context;
         }
 
-        public IList<Publisher> Publisher { get;set; } = default!;
+        public IList<Member> Member { get;set; } = default!;
 
         public async Task OnGetAsync()
         {
-            Publisher = await _context.Publisher.ToListAsync();
+            Member = await _context.Member.ToListAsync();
         }
     }
 }

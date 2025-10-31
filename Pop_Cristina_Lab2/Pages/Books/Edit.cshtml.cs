@@ -1,4 +1,6 @@
-﻿using System.Linq;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -6,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Pop_Cristina_Lab2.Data;
 using Pop_Cristina_Lab2.Models;
-using System.Collections.Generic;
+using Pop_Cristina_Lab2.Models.ViewModels;
 
 namespace Pop_Cristina_Lab2.Pages.Books
 {
@@ -22,119 +24,117 @@ namespace Pop_Cristina_Lab2.Pages.Books
         [BindProperty]
         public Book Book { get; set; } = default!;
 
-        // pentru checkbox-uri
-        public List<AssignedCategoryData> AssignedCategories { get; set; } = new();
+        // ASTA îți lipsea
+        public List<AssignedCategoryData> AssignedCategoryDataList { get; set; } = new();
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
-                return NotFound();
+            if (id == null) return NotFound();
 
-            Book = await _context.Book
-                .Include(b => b.Publisher)
+            var book = await _context.Book
                 .Include(b => b.Author)
-                .Include(b => b.BookCategories)
+                .Include(b => b.Publisher)
+                .Include(b => b.BookCategories!)
                     .ThenInclude(bc => bc.Category)
+                .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Book == null)
-                return NotFound();
+            if (book == null) return NotFound();
 
-            PopulateAssignedCategoryData(Book);
+            Book = book;
 
+            // dropdown-uri
+            ViewData["AuthorID"] = new SelectList(_context.Author, "ID", "FullName", Book.AuthorID);
             ViewData["PublisherID"] = new SelectList(_context.Publisher, "ID", "Name", Book.PublisherID);
-            ViewData["AuthorID"] = new SelectList(_context.Author, "ID", "Name", Book.AuthorID);
+
+            // checkbox-urile pt categorii
+            PopulateAssignedCategoryData(book);
 
             return Page();
         }
 
-        public async Task<IActionResult> OnPostAsync(int? id, string[] selectedCategories)
+        public async Task<IActionResult> OnPostAsync(string[] selectedCategories)
         {
-            if (id == null)
-                return NotFound();
+            if (Book == null) return NotFound();
 
             var bookToUpdate = await _context.Book
-                .Include(b => b.BookCategories)
+                .Include(b => b.BookCategories!)
                     .ThenInclude(bc => bc.Category)
-                .FirstOrDefaultAsync(b => b.ID == id);
+                .FirstOrDefaultAsync(b => b.ID == Book.ID);
 
-            if (bookToUpdate == null)
-                return NotFound();
+            if (bookToUpdate == null) return NotFound();
 
-            // actualizăm câmpurile simple
+            // actualizăm câmpurile de bază
             if (await TryUpdateModelAsync<Book>(
                 bookToUpdate,
                 "Book",
-                b => b.Title, b => b.Price, b => b.PublishingDate, b => b.PublisherID, b => b.AuthorID))
+                b => b.Title, b => b.Price, b => b.PublishingDate,
+                b => b.AuthorID, b => b.PublisherID))
             {
+                // actualizăm categoriile
                 UpdateBookCategories(selectedCategories, bookToUpdate);
+
                 await _context.SaveChangesAsync();
                 return RedirectToPage("./Index");
             }
 
-            // dacă nu a mers model state, refacem listele
+            // dacă ajungem aici, a fost invalid -> refacem listele
             PopulateAssignedCategoryData(bookToUpdate);
+            ViewData["AuthorID"] = new SelectList(_context.Author, "ID", "FullName", bookToUpdate.AuthorID);
             ViewData["PublisherID"] = new SelectList(_context.Publisher, "ID", "Name", bookToUpdate.PublisherID);
-            ViewData["AuthorID"] = new SelectList(_context.Author, "ID", "Name", bookToUpdate.AuthorID);
             return Page();
         }
 
         private void PopulateAssignedCategoryData(Book book)
         {
             var allCategories = _context.Category;
-            var bookCategories = new HashSet<int>(book.BookCategories?.Select(c => c.CategoryID) ?? Enumerable.Empty<int>());
+            var bookCategories = new HashSet<int>(book.BookCategories!.Select(c => c.CategoryID));
 
-            AssignedCategories = new List<AssignedCategoryData>();
-
-            foreach (var category in allCategories)
+            AssignedCategoryDataList = new List<AssignedCategoryData>();
+            foreach (var cat in allCategories)
             {
-                AssignedCategories.Add(new AssignedCategoryData
+                AssignedCategoryDataList.Add(new AssignedCategoryData
                 {
-                    CategoryID = category.ID,
-                    CategoryName = category.CategoryName,
-                    Assigned = bookCategories.Contains(category.ID)
+                    CategoryID = cat.ID,
+                    Name = cat.CategoryName,
+                    Assigned = bookCategories.Contains(cat.ID)
                 });
             }
         }
 
         private void UpdateBookCategories(string[] selectedCategories, Book bookToUpdate)
         {
-            if (selectedCategories == null)
+            if (selectedCategories == null || selectedCategories.Length == 0)
             {
-                // dacă nu e bifat nimic, golește lista
                 bookToUpdate.BookCategories = new List<BookCategory>();
                 return;
             }
 
             var selectedHS = new HashSet<string>(selectedCategories);
             var currentCategories = new HashSet<int>(
-                bookToUpdate.BookCategories?.Select(bc => bc.CategoryID) ?? Enumerable.Empty<int>());
+                bookToUpdate.BookCategories!.Select(c => c.CategoryID));
 
-            foreach (var category in _context.Category)
+            foreach (var cat in _context.Category)
             {
-                // dacă e bifat ACUM și nu era înainte → adăugăm
-                if (selectedHS.Contains(category.ID.ToString()))
+                if (selectedHS.Contains(cat.ID.ToString()))
                 {
-                    if (!currentCategories.Contains(category.ID))
+                    if (!currentCategories.Contains(cat.ID))
                     {
                         bookToUpdate.BookCategories!.Add(new BookCategory
                         {
                             BookID = bookToUpdate.ID,
-                            CategoryID = category.ID
+                            CategoryID = cat.ID
                         });
                     }
                 }
                 else
                 {
-                    // dacă NU e bifat ACUM dar era înainte → ștergem
-                    if (currentCategories.Contains(category.ID))
+                    if (currentCategories.Contains(cat.ID))
                     {
                         var toRemove = bookToUpdate.BookCategories!
-                            .FirstOrDefault(bc => bc.CategoryID == category.ID);
+                            .FirstOrDefault(i => i.CategoryID == cat.ID);
                         if (toRemove != null)
-                        {
-                            _context.BookCategory.Remove(toRemove);
-                        }
+                            _context.Remove(toRemove);
                     }
                 }
             }

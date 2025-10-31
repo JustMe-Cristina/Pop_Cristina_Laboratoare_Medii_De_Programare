@@ -10,23 +10,28 @@ namespace Pop_Cristina_Lab2.Models
         public int ID { get; set; }
 
         [Required]
-        [Display(Name = "Book Title")]
+        [Display(Name = "Book title")]
         public string Title { get; set; } = string.Empty;
 
-        [Column(TypeName = "decimal(6, 2)")]
+        [Column(TypeName = "decimal(6,2)")]
         public decimal Price { get; set; }
 
         [DataType(DataType.Date)]
-        [Display(Name = "Publishing Date")]
+        [Display(Name = "Publishing date")]
         public DateTime PublishingDate { get; set; }
 
+        // FK spre Author
+        [Display(Name = "Author")]
         public int? AuthorID { get; set; }
         public Author? Author { get; set; }
 
+        // FK spre Publisher
+        [Display(Name = "Publisher")]
         public int? PublisherID { get; set; }
         public Publisher? Publisher { get; set; }
 
-        // Lab 3 many-to-many
         public ICollection<BookCategory>? BookCategories { get; set; }
+
+        public ICollection<Borrowing>? Borrowings { get; set; }
     }
 }

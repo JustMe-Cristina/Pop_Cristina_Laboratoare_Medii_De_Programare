@@ -1,0 +1,54 @@
+﻿@page
+@model Pop_Cristina_Lab2.Pages.Borrowings.CreateModel
+
+@{
+    ViewData["Title"] = "Create Borrowing";
+}
+
+<h1>Create Borrowing</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Borrowing.MemberID" class="form-label"></label>
+                <select asp-for="Borrowing.MemberID" class="form-select" asp-items="ViewBag.MemberID">
+                    <option value="">-- select member --</option>
+                </select>
+                <span asp-validation-for="Borrowing.MemberID" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Borrowing.BookID" class="form-label"></label>
+                <select asp-for="Borrowing.BookID" class="form-select" asp-items="ViewBag.BookID">
+                    <option value="">-- select book --</option>
+                </select>
+                <span asp-validation-for="Borrowing.BookID" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Borrowing.BorrowDate" class="form-label"></label>
+                <input asp-for="Borrowing.BorrowDate" class="form-control" />
+                <span asp-validation-for="Borrowing.BorrowDate" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Borrowing.ReturnDate" class="form-label"></label>
+                <input asp-for="Borrowing.ReturnDate" class="form-control" />
+                <span asp-validation-for="Borrowing.ReturnDate" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-page="./Index" class="btn btn-secondary">Back to list</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

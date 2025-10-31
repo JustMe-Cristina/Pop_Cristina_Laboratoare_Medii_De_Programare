@@ -16,23 +16,20 @@ namespace Pop_Cristina_Lab2.Pages.Books
             _context = context;
         }
 
-        public Book Book { get; set; } = default!;
+        public Book Book { get; set; } = default!;   // <- default!
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            if (id == null) return NotFound();
 
-            Book = await _context.Book
+            var book = await _context.Book
+                .Include(b => b.Author)
                 .Include(b => b.Publisher)
                 .FirstOrDefaultAsync(m => m.ID == id);
 
-            if (Book == null)
-            {
-                return NotFound();
-            }
+            if (book == null) return NotFound();
+
+            Book = book;
             return Page();
         }
     }
