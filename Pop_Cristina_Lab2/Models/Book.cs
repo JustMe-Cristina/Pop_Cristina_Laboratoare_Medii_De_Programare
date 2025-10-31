@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -8,8 +9,8 @@ namespace Pop_Cristina_Lab2.Models
     {
         public int ID { get; set; }
 
-        [Display(Name = "Book Title")]
         [Required]
+        [Display(Name = "Book Title")]
         public string Title { get; set; } = string.Empty;
 
         [Column(TypeName = "decimal(6, 2)")]
@@ -19,14 +20,13 @@ namespace Pop_Cristina_Lab2.Models
         [Display(Name = "Publishing Date")]
         public DateTime PublishingDate { get; set; }
 
-        // Publisher
-        [Display(Name = "Publisher")]
+        public int? AuthorID { get; set; }
+        public Author? Author { get; set; }
+
         public int? PublisherID { get; set; }
         public Publisher? Publisher { get; set; }
 
-        // Author (relație 1-n)
-        [Display(Name = "Author")]
-        public int? AuthorID { get; set; }
-        public Author? Author { get; set; }
+        // Lab 3 many-to-many
+        public ICollection<BookCategory>? BookCategories { get; set; }
     }
 }

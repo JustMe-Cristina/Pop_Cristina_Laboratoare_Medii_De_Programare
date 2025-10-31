@@ -13,5 +13,9 @@ namespace Pop_Cristina_Lab2.Data
         public DbSet<Book> Book { get; set; }
         public DbSet<Publisher> Publisher { get; set; }
         public DbSet<Author> Author { get; set; }
+
+        // Lab 3
+        public DbSet<Category> Category { get; set; }
+        public DbSet<BookCategory> BookCategory { get; set; }
     }
 }
