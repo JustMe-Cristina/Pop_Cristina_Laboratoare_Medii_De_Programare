@@ -1,0 +1,45 @@
+@page
+@model Pop_Cristina_Lab2.Pages.Books.IndexModel
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h1>Books</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Author)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].Price)</th>
+            <th>@Html.DisplayNameFor(model => model.Book[0].PublishingDate)</th>
+            <th>Publisher</th>
+            <th>Author</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Book)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Author)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.PublishingDate)</td>
+                <td>@item.Publisher?.Name</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-page="Details" asp-route-id="@item.ID" class="btn btn-sm btn-info">Details</a>
+                    <a asp-page="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+                <td>@item.AuthorEntity?.Name</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

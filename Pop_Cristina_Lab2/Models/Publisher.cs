@@ -1,0 +1,16 @@
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+namespace Pop_Cristina_Lab2.Models
+{
+    public class Publisher
+    {
+        public int ID { get; set; }
+
+        [Required]
+        [Display(Name = "Publisher Name")]
+        public string Name { get; set; } = string.Empty;
+
+        public ICollection<Book>? Books { get; set; }
+    }
+}

@@ -1,0 +1,36 @@
+﻿@page
+@model Pop_Cristina_Lab2.Pages.Publishers.IndexModel
+
+@{
+    ViewData["Title"] = "Publishers";
+}
+
+<h1>Publishers</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Publisher[0].Name)</th>
+            <th>Number of Books</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Publisher)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@(item.Books?.Count ?? 0)</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-page="Details" asp-route-id="@item.ID" class="btn btn-sm btn-info">Details</a>
+                    <a asp-page="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

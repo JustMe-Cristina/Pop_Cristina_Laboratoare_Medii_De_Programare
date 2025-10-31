@@ -1,0 +1,70 @@
+﻿@page
+@model Pop_Cristina_Lab2.Pages.Books.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Book</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <input type="hidden" asp-for="Book.ID" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Title -->
+            <div class="form-group mb-3">
+                <label asp-for="Book.Title" class="form-label"></label>
+                <input asp-for="Book.Title" class="form-control" />
+                <span asp-validation-for="Book.Title" class="text-danger"></span>
+            </div>
+
+            <!-- Price -->
+            <div class="form-group mb-3">
+                <label asp-for="Book.Price" class="form-label"></label>
+                <input asp-for="Book.Price" class="form-control" />
+                <span asp-validation-for="Book.Price" class="text-danger"></span>
+            </div>
+
+            <!-- Publishing Date -->
+            <div class="form-group mb-3">
+                <label asp-for="Book.PublishingDate" class="form-label"></label>
+                <input asp-for="Book.PublishingDate" class="form-control" />
+                <span asp-validation-for="Book.PublishingDate" class="text-danger"></span>
+            </div>
+
+            <!-- Publisher -->
+            <div class="form-group mb-3">
+                <label asp-for="Book.PublisherID" class="form-label"></label>
+                <select asp-for="Book.PublisherID" class="form-select"
+                        asp-items="ViewBag.PublisherID">
+                    <option value="">-- Select publisher --</option>
+                </select>
+                <span asp-validation-for="Book.PublisherID" class="text-danger"></span>
+            </div>
+
+            <!-- Author -->
+            <div class="form-group mb-3">
+                <label asp-for="Book.AuthorID" class="form-label"></label>
+                <select asp-for="Book.AuthorID" class="form-select"
+                        asp-items="ViewBag.AuthorID">
+                    <option value="">-- Select author --</option>
+                </select>
+                <span asp-validation-for="Book.AuthorID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-page="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
