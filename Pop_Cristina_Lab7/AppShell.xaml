@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="Pop_Cristina_Lab7.AppShell"
+    x:Class="Pop_Cristina_Lab8.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Pop_Cristina_Lab7"
+    xmlns:local="clr-namespace:Pop_Cristina_Lab8"
+    xmlns:popCristinaLab7="http://schemas.microsoft.com/dotnet/maui/global"
     Shell.FlyoutBehavior="Disabled">
 
     <TabBar>
         <ShellContent
-            Title="Shopping Lists"
-            ContentTemplate="{DataTemplate local:MainPage}" />
+            Title="Home"
+            ContentTemplate="{DataTemplate popCristinaLab7:MainPage}" />
+
         <ShellContent
             Title="About"
-            ContentTemplate="{DataTemplate local:AboutPage}" />
+            ContentTemplate="{DataTemplate popCristinaLab7:AboutPage}" />
+
+        <ShellContent
+            Title="My Shopping Lists"
+            ContentTemplate="{DataTemplate local:ListEntryPage}" />
     </TabBar>
 
 </Shell>

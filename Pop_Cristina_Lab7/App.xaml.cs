@@ -1,14 +1,36 @@
-﻿namespace Pop_Cristina_Lab7;
+﻿using System;
+using System.IO;
+using Pop_Cristina_Lab8.Data;
+
+namespace Pop_Cristina_Lab8;
 
 public partial class App : Application
 {
-	public App()
-	{
-		InitializeComponent();
-	}
+    static ShoppingListDatabase database;
 
-	protected override Window CreateWindow(IActivationState? activationState)
-	{
-		return new Window(new AppShell());
-	}
+    public static ShoppingListDatabase Database
+    {
+        get
+        {
+            if (database == null)
+            {
+                database = new ShoppingListDatabase(
+                    Path.Combine(
+                        Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                        "ShoppingList.db3"));
+            }
+            return database;
+        }
+    }
+
+    public App()
+    {
+        InitializeComponent();
+        MainPage = new AppShell();
+    }
+
+    private void InitializeComponent()
+    {
+        throw new NotImplementedException();
+    }
 }
