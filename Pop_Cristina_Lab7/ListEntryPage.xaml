@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Pop_Cristina_Lab8.ListEntryPage"
-             Title="My Shopping Lists">
+<ContentPage
+    x:Class="Pop_Cristina_Lab7.ListEntryPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add Shopping List"
-                     Clicked="OnShopListAddedClicked" />
-    </ContentPage.ToolbarItems>
+    <StackLayout Margin="20">
 
-    <ListView x:Name="listView"
-              Margin="20"
-              ItemSelected="OnListViewItemSelected">
+        <Button Text="Add Shop List"
+                Clicked="OnShopListAddedClicked" />
 
-        <ListView.ItemTemplate>
-            <DataTemplate>
-                <TextCell Text="{Binding Description}"
-                          Detail="{Binding Date}" />
-            </DataTemplate>
-        </ListView.ItemTemplate>
+        <ListView x:Name="listView"
+                  Margin="10"
+                  ItemSelected="OnListViewItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Description}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
 
-    </ListView>
-
+    </StackLayout>
 </ContentPage>

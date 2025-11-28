@@ -1,8 +1,8 @@
 ﻿using System;
 using System.IO;
-using Pop_Cristina_Lab8.Data;
+using Pop_Cristina_Lab7.Data;
 
-namespace Pop_Cristina_Lab8;
+namespace Pop_Cristina_Lab7;
 
 public partial class App : Application
 {
@@ -27,10 +27,5 @@ public partial class App : Application
     {
         InitializeComponent();
         MainPage = new AppShell();
-    }
-
-    private void InitializeComponent()
-    {
-        throw new NotImplementedException();
     }
 }

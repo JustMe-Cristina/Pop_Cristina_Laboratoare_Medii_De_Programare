@@ -1,9 +1,9 @@
 using SQLite;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Pop_Cristina_Lab8.Models;
+using Pop_Cristina_Lab7.Models;
 
-namespace Pop_Cristina_Lab8.Data
+namespace Pop_Cristina_Lab7.Data
 {
     public class ShoppingListDatabase
     {

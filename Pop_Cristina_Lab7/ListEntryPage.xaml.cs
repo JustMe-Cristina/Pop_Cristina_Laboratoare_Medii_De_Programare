@@ -1,6 +1,7 @@
-using Pop_Cristina_Lab8.Models;
+using System;
+using Pop_Cristina_Lab7.Models;
 
-namespace Pop_Cristina_Lab8;
+namespace Pop_Cristina_Lab7;
 
 public partial class ListEntryPage : ContentPage
 {

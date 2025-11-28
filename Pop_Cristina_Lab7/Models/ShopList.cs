@@ -1,6 +1,7 @@
+using System;
 using SQLite;
 
-namespace Pop_Cristina_Lab8.Models
+namespace Pop_Cristina_Lab7.Models
 {
     public class ShopList
     {
