@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pop_Cristina_Lab7.MainPage"
+             Title="Shopping Lists">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="18" Padding="20">
+
+            <Image Source="logo.jpg"
+                   HeightRequest="140"
+                   HorizontalOptions="Center" />
+
+            <Label Text="Personal Expense &amp; Shopping Planner"
+                   FontSize="26"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <Label Text="A simple cross-platform app for managing shopping lists and tracking personal spending."
+                   FontSize="14"
+                   HorizontalTextAlignment="Center"
+                   Opacity="0.85" />
+
+            <Button x:Name="CounterBtn"
+                    Text="Get Started"
+                    Clicked="OnCounterClicked"
+                    HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
