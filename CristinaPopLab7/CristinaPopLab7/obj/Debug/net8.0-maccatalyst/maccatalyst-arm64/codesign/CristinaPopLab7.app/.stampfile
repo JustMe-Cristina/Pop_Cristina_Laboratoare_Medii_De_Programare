@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/cristina-pop/MP/CristinaPopLab7/CristinaPopLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/cristina-pop/MP/CristinaPopLab7/CristinaPopLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/CristinaPopLab7.app
